@@ -1,0 +1,52 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+
+.menu li{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(231, 87, 87);
+    margin: 5px;
+    list-style: none;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    background-color: black;
+
+
+}
+.menu li {
+    background-color: rgb(247, 247, 247);
+
+   
+    
+}
+.one{
+
+    width: 100px;
+    height: 300px;
+    margin: 20px;
+    border: 100%;
+
+}
+.menu2 li {
+    width: 100px;
+    height: 100px;
+    list-style-type: none;
+    display: inline-block;
+
+    
+    
+    
+}
+.services{
+    width: 100px;
+    height: 100px;
+    
+}
+
